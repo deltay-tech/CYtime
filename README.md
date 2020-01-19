@@ -1,2 +1,2 @@
 # CYtime
-CY TIME font
+CY TIME font for Future
